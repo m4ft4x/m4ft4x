@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+world;Loading+my+profile...;System+online+%3E_%3C" alt="Typing SVG">
+</p>
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/m4ft4x/m4ft4x/main/Khong_Co_Tieu_e45_20250831153657.png"
        width="100%"
@@ -28,6 +32,8 @@
 ```
 
 ---
+
+<img src="69862b3dc6a773c79a4cb0059b34a531.png" width="150" alt="My Avatar">
 
 ---
 
@@ -84,30 +90,19 @@
 
 <sub>╔══════════ SELECT A MODULE ══════════╗</sub>
 
-<br/>
 
-<a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-&nbsp;
-<a href="https://open.spotify.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SPOTIFY-00FF9C?style=for-the-badge&logo=spotify&logoColor=000000" alt="Spotify"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.pinterest.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PINTEREST-FF3355?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-</a>
-&nbsp;
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://telegram.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+  <a href="https://www.pinterest.com/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
+  </a>
+  <a href="https://telegram.org/">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+  
