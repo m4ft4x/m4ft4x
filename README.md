@@ -11,7 +11,7 @@
 
 <!-- Avatar / Image Minimal Gothic -->
 <a href="https://github.com/m4ft4x">
-  <img src="https://drive.google.com/file/d/1bido5srzYHyOrBIYY_muO1VvNvsjlGtL/view?usp=drivesdk" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
+  <img src="content://media/external/downloads /1000140097" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
 </a>
 
 <br/><br/>
