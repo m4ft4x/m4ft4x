@@ -74,6 +74,10 @@
 
 </div>
 
+<p align="center">
+  <img src="nyon2.gif" width="200" alt="Nyon GIF">
+</p>
+
 ---
 
 ### `// ♡ MY FAVOURITE APPS ♡
