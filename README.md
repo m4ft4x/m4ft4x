@@ -4,7 +4,7 @@
 <!-- DARK CYBER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=%E2%9C%A6%20M4FT4X%20%2F%2F%20NIGHT%20CODER%20%E2%9C%A6&fontSize=36&fontColor=79c0ff&animation=twinkling&fontAlignY=40" width="100%" alt="M4FT4X Night Coder Banner" />
 
-# ⚡ *LOST IN THE SHADOW OF CODE* ⚡
+# ⚡ * UPCOMING GAMING TIME * ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=19&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+dark+domain...;Exploring+the+digital+world;Midnight+Music+Protocol;Building+my+own+little+universe..." alt="Animated typing text" />
 
@@ -29,11 +29,11 @@
 ## 🌑 ABOUT ME
 
 ```text
-> Username : m4ft4x
-> Theme    : Dark Cyber / Midnight
-> Interests: Music / Languages / Games
-> Status   : Exploring the digital universe...
-> Mission  : Turning ideas into digital creations.
+> Username : Roto
+> Age   : 17y
+> Sexual: Aroace/Fictorose
+> Hobbies   : Cook/Read/Anime/Music
+> Character  : Quiet/Comfortable than uncomfortable
 ```
 
 ---
@@ -53,7 +53,7 @@
 <div align="center">
 
 <a href="https://open.spotify.com/track/4V1x3xY1Y3Z89X8Z8Z8Z8Z">
-  <img src="https://spotify-readme-compliments.vercel.app/api?theme=dark&font=courier&title=NOW%20PLAYING...&artist=Santiz&track=%D0%9A%D0%B0%D0%B9%D1%84%D1%83%D1%88%D0%B0&album_art=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b7a54a7f05244e45e7f1a30f" width="400" alt="Music player graphic for Santiz - Кайфуша" />
+  <img src="Music player graphic for Santiz - Кайфуша" />
 </a>
 
 <br/>
