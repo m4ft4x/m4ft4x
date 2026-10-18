@@ -11,7 +11,7 @@
 
 <!-- Avatar / Image Minimal Gothic -->
 <a href="https://github.com/m4ft4x">
-  <img src="https://share.google/LESFnrDF9cpg1sPYy" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
+  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=400&auto=format&fit=crop" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
 </a>
 
 <br/><br/>
@@ -34,4 +34,3 @@
 > Role     : Fullstack / UI-UX Developer
 > Mode     : Dark Mode / Midnight Coder
 > Status   : Decoding complex ideas into sleek interfaces...
-
