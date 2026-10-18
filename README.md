@@ -74,3 +74,7 @@
 
 <samp>✦ END OF TRANSMISSION ✦</samp>
 </div>
+
+<div align="center">
+  <img src="./nyon2.gif" width="308" alt="My anime GIF">
+</div>
