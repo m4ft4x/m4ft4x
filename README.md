@@ -21,7 +21,7 @@
 
 ---
 
-## 🌑 ABOUT ME
+## 🌑 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔
 
 ```text
 > Username : Roto
@@ -39,8 +39,6 @@
 
 
 <div align="center">
-
-## ♪ LITTLE MUSIC  //
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=400&lines=%E2%99%AB+NOW+PLAYING;%D0%9A%D0%B0%D0%B9%D1%84%D1%83%D1%88%D0%B0+%2F%2F+SANTIZ" alt="Now playing Santiz">
 
