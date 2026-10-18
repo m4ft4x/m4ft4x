@@ -31,27 +31,31 @@
 
 ---
 
-## ⚡ MY DIGITAL WORLD
+---
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=16&pause=1200&color=79C0FF&center=true&vCenter=true&width=500&lines=ACCESSING+SHADOW+PROTOCOL...;WELCOME+TO+MY+DIGITAL+WORLD;SYSTEM+ONLINE+%E2%9C%93" alt="Cyber system animation" />
+## ♪ NOW PLAYING // M4FT4X
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=400&lines=%E2%99%AB+NOW+PLAYING;%D0%9A%D0%B0%D0%B9%D1%84%D1%83%D1%88%D0%B0+%2F%2F+SANTIZ" alt="Now playing Santiz">
+
+<a href="https://www.youtube.com/watch?v=Y01TTpbXlkA">
+  <img src="https://img.youtube.com/vi/Y01TTpbXlkA/hqdefault.jpg" width="300" alt="Santiz - Кайфуша. Click to listen">
+</a>
+
+<p><b>◉ Кайфуша — Santiz</b></p>
+
+<a href="https://www.youtube.com/watch?v=Y01TTpbXlkA">
+  <img src="https://img.shields.io/badge/▶_PLAY_TRACK-00FF9C?style=for-the-badge&labelColor=05080D" alt="Play track">
+</a>
+
+<p><code>VOLUME: USER CONTROLLED // STATUS: READY</code></p>
 
 </div>
 
----
-
-## ♫ MUSIC TRANSMISSION
-
-<div align="center">
-
-<a href="https://open.spotify.com/track/4V1x3xY1Y3Z89X8Z8Z8Z8Z">
-  <img src="https://spotify-readme-compliments.vercel.app/api?theme=dark&font=courier&title=NOW%20PLAYING...&artist=Santiz&track=%D0%9A%D0%B0%D0%B9%D1%84%D1%83%D1%88%D0%B0&album_art=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b7a54a7f05244e45e7f1a30f" width="400" alt="Music player graphic for Santiz - Кайфуша" />
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&pause=1000&color=79C0FF&center=true&vCenter=true&width=430&lines=%E2%99%AB+Santiz+-+%D0%9A%D0%B0%D0%B9%D1%84%D1%83%D1%88%D0%B0;%E2%9A%A1+Vibing+in+the+darkness...;%E2%98%BD+Midnight+Music+Protocol" alt="Animated music text" />
+ 
+*ฅ^•ﻌ•^ฅ meow meow~*
 
 </div>
 
