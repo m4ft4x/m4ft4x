@@ -11,7 +11,7 @@
 
 <!-- Avatar / Image Minimal Gothic -->
 <a href="https://github.com/m4ft4x">
-  <img src="https://imagetourls.com/vi/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FPAjqLyAU.png" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
+  <img src="https://share.google/LESFnrDF9cpg1sPYy" width="140" style="border-radius: 50%; border: 2px solid #79c0ff; box-shadow: 0 0 15px #bc8cff;" />
 </a>
 
 <br/><br/>
