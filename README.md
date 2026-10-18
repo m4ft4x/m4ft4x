@@ -99,3 +99,58 @@
 <div align="center">
   <img src="./nyon2.gif" width="308" alt="My anime GIF">
 </div>
+
+<!-- ═══════ DARK CYBER // APPS MODULE ═══════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=420&lines=%3E+APPLICATIONS.exe;%3E+SYSTEM+MODULES+ONLINE;%3E+SELECT+YOUR+DESTINATION" alt="Cyber Apps"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="85%"/>
+
+### `// MY APPLICATIONS`
+
+<sub>╔══════════ SELECT A MODULE ══════════╗</sub>
+
+<br/>
+
+<a href="https://discord.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+&nbsp;
+<a href="https://open.spotify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SPOTIFY-00FF9C?style=for-the-badge&logo=spotify&logoColor=000000" alt="Spotify"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.pinterest.com/" target="_blank">
+  <img src="https://img.shields.io/badge/PINTEREST-FF3355?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+</a>
+&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<a href="https://telegram.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="https://pony.town/" target="_blank">
+  <img src="https://img.shields.io/badge/PONY_TOWN-00FF9C?style=for-the-badge&logoColor=000000" alt="Pony Town"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=flat-square&labelColor=0D1117" alt="Online status"/>
+<img src="https://img.shields.io/badge/MODE-DARK_CYBER-00FF9C?style=flat-square&labelColor=0D1117" alt="Dark cyber mode"/>
+
+<br/>
+
+<sub>▌ SYSTEM READY_ // CLICK TO CONNECT ▌</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=footer" width="85%"/>
+
+</div>
+<!-- ═══════ END APPS MODULE ═══════ -->
