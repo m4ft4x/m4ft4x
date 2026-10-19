@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"
+       width="120">
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+world;Loading+my+profile...;System+online+%3E_%3C" alt="Typing SVG">
 </p>
