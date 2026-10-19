@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="69862b3dc6a773c79a4cb0059b34a531.png" width="55">
+  <img src="slurpmpp2.gif" width="55">
   <img src="cddbdb13d10041913729d55c11ba337d5.gif" width="55">
   <img src="66e8de9a5878676e5ed51becd4aa15cb.jpg" width="55">
   <img src="zora's domain.png" width="55">
