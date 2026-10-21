@@ -41,7 +41,7 @@
   <img src="slurpmpp2.gif" width="55">
   <img src="sleep - nyon.gif" width="55">
   <img src="zora's domain.png" width="55">
-</p>https://pin.it/4I5gX6Nzo
+</p>https://rotochan.straw.page
   
 ---
 
