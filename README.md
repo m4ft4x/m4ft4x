@@ -100,11 +100,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="75">
   </a>
 
-  <a href="https://open.spotify.com/">
+  <a href="https://open.spotify.com/user/31xovnpxf5r6zbba3h7znq3nobby?si=3-0Z6QUMRTai_FbmP5Cm8g&utm_source=copy-link">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="75">
   </a>
 
-  <a href="https://www.pinterest.com/">
+  <a href="https://pin.it/2J1b4MC1O">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" width="75">
   </a>
 
